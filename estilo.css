@@ -1,0 +1,8 @@
+:root { color-scheme: dark; }
+body { margin: 0; background: #1F3D2B; color: #F2EBD9; font: 17px/1.6 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif; }
+main { max-width: 42rem; margin: 0 auto; padding: 2rem 1.25rem 4rem; }
+h1 { line-height: 1.2; margin-top: 0.5rem; }
+h2 { margin-top: 2rem; font-size: 1.2rem; color: #E8B64C; }
+a { color: #FF7DBA; }
+.fecha, .volver { color: #B9C7B5; font-size: 0.95rem; }
+li { margin: 0.3rem 0; }
